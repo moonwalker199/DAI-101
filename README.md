@@ -1,5 +1,5 @@
 # DAI-101
-## This repository contains the assignment solutions submitted for the course Data Science (DAI-101) during the autumn semester of 2023-24.
+## This repository contains the assignment solutions submitted for the course Data Science (DAI-101) during the autumn semester of 2024 at IIT-R.
 
 ## Submitted by 
     Debangan Sarkar
